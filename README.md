@@ -1,12 +1,12 @@
 # blogging
 
-A new Flutter project.
+A simple blogging application built with Flutter. Users can create, read, update, and delete blog posts. 
+This project is under active development and will be updated daily.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter
+- Dart
+- Supabase 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
